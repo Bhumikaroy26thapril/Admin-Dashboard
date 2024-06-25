@@ -1,8 +1,12 @@
-# React + Vite
+# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
-Currently, two official plugins are available:
+## Introduction
+This is a code repository for the corresponding video tutorial.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+
+## Launch your development career with project-based coaching - https://www.jsmastery.pro
